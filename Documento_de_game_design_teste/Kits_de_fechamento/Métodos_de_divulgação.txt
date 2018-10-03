@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-17T08:04:05-03:00
+
+====== Métodos de divulgação ======
+Criado terça-feira 17 julho 2018
+
+   Para a divulgação do jogo, deverão ser registradas aqui as estratégias que serão utilizadas para divulgá-lo (caso o jogo possa ser divulgado) e informações sobre a publicação.
+
+Exemplo:
+   "O jogo X será divulgado a partir de dois teasers que serão feitos em meio ao processo de produção, e depois por cartazes espalhados pela empresa e imagens de divulgação no site Y"

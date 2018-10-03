@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-09T08:30:42-03:00
+
+====== Conceitos para a produção ======
+Criado segunda-feira 09 julho 2018
+
+São conceitos que, a partir da conclusão dos [[..\Conceitos_iniciais.txt|iniciais]], devem ser criados a partir destes, para dar início ao processo de produção.
+
+		- [[Documento de game design teste:Conceitos para a produção:Artes conceituais|Artes conceituais]];
+		- [[Documento de game design teste:Conceitos para a produção:Conceitos de animação|Conceitos de animação]];
+		- [[Documento de game design teste:Conceitos para a produção:Diretrizes centrais da narrtiva|Criação das diretrizes centrais da narrativa]];
+		- [[Documento de game design teste:Conceitos para a produção:Prototipação das mecânicas|Prototipação de mecânicas]];
+		- [[Documento de game design teste:Conceitos para a produção:Level design|Distribuição de recursos pelo level]];
+		- [[Documento de game design teste:Conceitos para a produção:Banco de referências|Banco de referências]];

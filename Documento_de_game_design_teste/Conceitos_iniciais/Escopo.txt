@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-06T10:45:26-03:00
+
+====== Escopo ======
+Criado sexta-feira 06 julho 2018
+
+   O escopo é estabelecido pela relação da quantidade de recursos a serem implementados de acordo com o tempo disponível para a produção do projeto.
+
+   Para a definição de experiências e os recursos alocados em diferentes níveis dela (como, por exemplo, uma demo, uma versão beta ou uma versão completa), é possível que essas informações sejam organizadas em seções que se dividem entre:
+	- [[Documento de game design teste:Conceitos iniciais:Escopo:Recursos necessários|Recursos necessários]];
+	- [[Documento de game design teste:Conceitos iniciais:Escopo:Recursos complementares|Recursos complementares]];
+	- [[Documento de game design teste:Conceitos iniciais:Escopo:Recursos desejáveis|Recursos desejáveis]];
+
+   Essa divisão de recursos é importante para que seja examinado, de acordo com o tempo, durante as [[Documento de game design teste:Processos intrínsecos ao ciclo de produção:Avaliações de risco|avaliações de risco]], quais recursos têm a produção prioritária sobre os demais e quais recursos podem ser adicionados ou removidos, de acordo com o andamento do projeto.
+
+Exemplo:
+{{.\unnamed.png}}
+   O jogo There is no game[[Documento de game design teste:Conceitos para a produção:Banco de referências|⁶]] apresentou, dentre o prazo aproximado de um mês, uma experiência completa de jogo, com a duração aproximada de vinte minutos, e utilizando recursos de drag and drop, point and click, screenshakes, etc...

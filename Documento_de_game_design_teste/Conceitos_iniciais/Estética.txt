@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-06T10:46:48-03:00
+
+====== Estética ======
+Criado sexta-feira 06 julho 2018
+
+   Esta seção deve descrever, combase nas [[Documento de game design teste:Conceitos iniciais:Mensagens a transmitir|mensagens]] que serão transmitidas ao jogador, quais serão as estéticas (se houver uma predominante, isso deve ser descrito) e estilos adotados no jogo. A partir dela, poderão ser definidos os estilos de [[Documento de game design teste:Conceitos iniciais:Estilo de narrativa|narrativa]] e de arte [[Documento de game design teste:Conceitos iniciais:Estilo de arte visual|visual]] e [[Documento de game design teste:Conceitos iniciais:Estilo de arte sonora|sonora]].
+
+Exemplo:
+{{.\VivaPinata1.jpg}}
+   O jogo Viva Piñata[[Conceitos para a produção:Banco de referências|⁸]] possui uma estética cartunesca que enfatiza elementos culturais mexicanos.

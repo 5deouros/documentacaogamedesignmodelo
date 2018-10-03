@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-17T08:26:53-03:00
+
+====== Post-mortems ======
+Criado terça-feira 17 julho 2018
+
+   Aqui, deve ser feito o registro de observações feitas pela equipe durante os post-mortems.
+
+Exemplo:
+   "No post-mortem do projeto, foram observados que a equipe trabalhou muito bem nos aspectos X, Y e Z, e isso foi um progresso comparado ao projeto anterior, em que tivemos falhas durante X e Z. Porém, foi unânime que o aspecto A deixou a desejar, e foi decidido tentar resolver isso das formas B e C para o próximo projeto."

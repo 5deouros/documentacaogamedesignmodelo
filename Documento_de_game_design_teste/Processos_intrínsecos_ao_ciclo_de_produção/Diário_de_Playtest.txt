@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-16T09:26:17-03:00
+
+====== Diário de Playtest ======
+Criado segunda-feira 16 julho 2018
+
+   Nesta sessão, devem ser tomadas notas de como foi o andamento de cada playtest, com data, registro de qual foi o jogador, observações feitas pela pessoa que observou e monitorou o playtest e o feedback dado pelo testador.
+
+Exemplo:
+   27/06/2018
+   Testador: Youil Samara
+   Foi observado que o testador teve dificuldade para passar pela segunda fase do jogo, pois as mecânicas novas não haviam sido apresentadas ainda.
+   O feedback dado por ele foi que os controles não estavam confortáveis para utilizar.

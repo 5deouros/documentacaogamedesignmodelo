@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-06T10:47:31-03:00
+
+====== Estilo de arte visual ======
+Criado sexta-feira 06 julho 2018
+
+   O estilo da arte visual do jogo servirá, juntamente com os [[Documento de game design teste:Conceitos iniciais:Conceitos de interface|conceitos de interface,]] para a criação das [[Documento de game design teste:Conceitos para a produção:Artes conceituais|artes conceituais]], que mediante aprovação darão início à criação da arte final do jogo. Aqui, deve ser descrito um estilo que servirá para a criação desses assets levando em consideração as [[Documento de game design teste:Conceitos iniciais:Mensagens a transmitir|mensagens]] que se espera que o jogo transmita..
+
+Exemplo:
+{{.\1e5e359c-s.jpg}}
+   No jogo Banjo-Kazooie[[Conceitos para a produção:Banco de referências|¹⁰]], toda a arte é feita em baixa poligonagem, com texturas sem grande nível de detalhes e paletas de cores vibrantes.

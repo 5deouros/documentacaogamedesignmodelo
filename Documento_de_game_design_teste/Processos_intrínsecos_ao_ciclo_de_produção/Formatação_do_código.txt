@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-16T09:12:36-03:00
+
+====== Formatação do código ======
+Criado segunda-feira 16 julho 2018
+
+   Este espaço é destinado para registrar, seguir e acompanhar um modelo padrão para a escrita dos scripts do jogo. Aqui devem ser descritos o modo de tabulação, padrões para criar nomes e declarar variáveis, critérios para criação de scripts diferentes e o que for necessário para organizar a programação.
+
+Exemplo:
+   "Para os scripts do jogo X, a tabulação será feita a partir de:
+
+1	void Funcao1()
+2	{
+3	if (condição)
+4		{
+5		comandos;
+6		}
+7	}
+
+	Não serão utilizados caracteres com acentuação gráfica no código. Toda função deve estar comentada quanto a sua efetividade. Para criação de variáveis, as iniciais serão minúsculas, seguidas de _ para separar palavras."

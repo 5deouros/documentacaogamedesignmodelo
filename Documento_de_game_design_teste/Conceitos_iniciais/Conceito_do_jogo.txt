@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-06T10:41:35-03:00
+
+====== Conceito do jogo ======
+Criado sexta-feira 06 julho 2018
+
+   O conceito do jogo, também conhecido como High Concept, é um texto breve que concentra todas as informações essenciais para que seja compreensível, em poucos parágrafos, como será seu funcionamento, como serão suas mecânicas principais, estética, objetivos, condições de vitória e derrota, entre outras informações necessárias para a criação de uma pequena imagem do jogo como um todo.
+
+Exemplo:
+{{.\s.jpg}}
+   Snake[[Conceitos para a produção:Banco de referências|⁴]] é um jogo multiplataforma em que o jogador controla uma cobrinha nos eixos vertical e horizontal, e seu objetivo é comer frutos que são gerados em lugares aleatórios da tela de jogo. Apenas um desses frutos aparece por vez na tela, e assim que são comidos pela cobrinha os frutos somem e reaparecem em outro lugar. O espaço de jogo é limitado por paredes pelas quais a personagem do jogador não pode passar e espaços em branco por onde ela pode passar, e caso não haja paredes nas extremidades da tela, ao passar por uma extremidade a personagem do jogador reaparece na extremidade oposta. Cada vez que um fruto é engolido pela cobrinha, o tamanho da sua cauda aumenta uma unidade, e isso aumenta a dificuldade para que movimentos sejam realizados no espaço de jogo limitado, até que a cobra esteja quase do tamanho da tela inteira. Quando esse tamanho for atingido, o jogador volta a controlar uma cobra pequena, mas desta vez em um cenário diferente. A pontuação é calculada de acordo com o número de frutos ingeridos.

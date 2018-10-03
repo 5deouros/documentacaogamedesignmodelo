@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-06T12:33:47-03:00
+
+====== Recursos desejáveis ======
+Criado sexta-feira 06 julho 2018
+
+   São recursos desejáveis para a produção de um jogo todas as ideias que não afetam a jogabilidade principal, como ideias que surgem ao longo da produção, ou ideias que demandariam mais tempo do que o disponível durante a produção, mas caso tudo ocorra bem e antes dos prazos podem ser implementados.
+
+Exemplo:
+{{.\download.png}}
+   Para o jogo Pac-Man[[Conceitos para a produção:Banco de referências|⁷]], seriam recursos desejáveis partículas de feedback para quando a velocidade da personagem do jogador aumentar, controle da personagem do jogador obtido pelo input da tecnologia Kinect, etc...

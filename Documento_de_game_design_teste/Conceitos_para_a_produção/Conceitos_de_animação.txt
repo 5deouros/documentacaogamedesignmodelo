@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-11T08:02:01-03:00
+
+====== Conceitos de animação ======
+Criado quarta-feira 11 julho 2018
+
+   Entre os conceitos de animação devem estar informações sobre o rig ou vetorização dos modelos e assets, esboços de posições-chave que serão utilizadas na animação, referências e o que mais for necessário para detalhar as necessidades de cada animação do jogo.
+
+Exemplos:
+{{.\tumblr_osqve6Eshq1rrftcdo1_500.jpg}}
+   Folha de referência interna da DiC Entertainment para o design do personagem Mario[[Documento de game design teste:Conceitos para a produção:Banco de referências|²⁰]] nos desenhos animados.
+{{.\TheLastOfUsRigging.jpg}}
+   Rig da expressão facial de uma das personagens de The last of us[[Documento de game design teste:Conceitos para a produção:Banco de referências|²¹]].

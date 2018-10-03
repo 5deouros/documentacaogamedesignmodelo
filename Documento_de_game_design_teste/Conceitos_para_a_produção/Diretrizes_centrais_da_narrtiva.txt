@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-11T10:00:57-03:00
+
+====== Diretrizes centrais da narrtiva ======
+Criado quarta-feira 11 julho 2018
+
+   Aqui, é importante que sejam organizadas e descritas as principais estruturas narrativas das quais o jogo se utilizará, bem como suas funções em relação à [[Documento de game design teste:Conceitos iniciais:Gameplay|gameplay]].
+
+Exemplo:
+{{.\stranger-things-game.jpg}}
+   No jogo Stranger Things[[Documento de game design teste:Conceitos para a produção:Banco de referências|²²]], os principais elementos narrativos são NPCs que contam, em fragmentos, a história do que está acontecendo e dão dicas do que vai acontecer na segunda temporada da série (já que a função do jogo foi divulgar a segunda temporada), assim como NPCs que não contam a história, mas dão vida e populam o mundo de jogo.

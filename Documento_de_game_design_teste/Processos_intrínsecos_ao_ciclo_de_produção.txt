@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-06T12:07:55-03:00
+
+====== Processos intrínsecos ao ciclo de produção ======
+Criado sexta-feira 06 julho 2018
+
+São processos que ocorrem cíclicamente durante o processo de produção e são intrínsecos a este, e provavelmente os espaços onde a documentação será mais movimentada após o início da produção.
+
+		- [[Documento de game design teste:Processos intrínsecos ao ciclo de produção:Formatação para pastas e recursos|Registro dos padrões e formatos de organização de pastas e recursos]];
+		- [[Documento de game design teste:Processos intrínsecos ao ciclo de produção:Formatação do código|Registro dos padrões e formatos de organização do código]];
+		- [[Documento de game design teste:Processos intrínsecos ao ciclo de produção:Avaliações de risco|Avaliações de riscos]];
+		- [[Documento de game design teste:Processos intrínsecos ao ciclo de produção:Diário de Playtest|Registro de feedback obtido em playtests (diário de playtest)]];
+		- [[Documento de game design teste:Processos intrínsecos ao ciclo de produção:Registro de alterações|Registro de alterações no projeto]];

@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-17T08:11:13-03:00
+
+====== Work in Progress (WIP) ======
+Criado terça-feira 17 julho 2018
+
+   Esse é um espaço destinado à redação de work in progress, um tipo de artigo que fala e ilustra os métodos, técnicas e estratégias para a criação de diferentes etapas do jogo (ou dele inteiro).
+
+Exemplo:
+   [[Documento de game design teste:Kits de fechamento:Work in Progress (WIP):WIP da ilustração do cenário|WIP da ilustração do cenário]]

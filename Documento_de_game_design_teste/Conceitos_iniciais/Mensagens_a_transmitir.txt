@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-06T10:46:16-03:00
+
+====== Mensagens a transmitir ======
+Criado sexta-feira 06 julho 2018
+
+   As mensagens que o jogo transmitirá devem ser claras e caminhar junto com a [[Documento de game design teste:Conceitos iniciais:Gameplay|gameplay]], considerando um vínculo claro a ser transmitido ao jogador por meio do objetivo do jogo e de suas condições de vitória e derrota. Esta é uma seção crucial para dar início a processos que devem obrigatóriamente se submeter ao conteúdo definido aqui, como a [[Documento de game design teste:Conceitos iniciais:Estética|estética]], os estilos de [[Documento de game design teste:Conceitos iniciais:Estilo de narrativa|narrativa]] e de arte [[Documento de game design teste:Conceitos iniciais:Estilo de arte visual|visual]] e [[Documento de game design teste:Conceitos iniciais:Estilo de arte sonora|sonora]], a [[Documento de game design teste:Conceitos iniciais:Conceitos de interface|interface]], o [[Documento de game design teste:Conceitos iniciais:Conceito de levels|conceito dos levels]] e seu [[Documento de game design teste:Conceitos para a produção:Level design|design]].
+
+Exemplo:
+{{.\Hellblade-Senuas-Sacrifice-Cover-1.jpg}}
+   O jogo Hellblade: Senua's Sacrifice[[Documento de game design teste:Conceitos para a produção:Banco de referências|¹⁵]] tem como mensagem principal a transmição ao jogador das sensações causadas pelos sintomas de esquizofrenia. Toda sua gameplay foi projetada com base em pesquisas e de modo cauteloso para que não se passasse uma mensagem negativa sobre a doença, nem que se deixasse de representar o possível sobre esta. Desde os puzzles até mecânicas de jogo criadas levam em conta a mensagem escolhidas a transmitir, e se moldam com base na pesquisa dos desenvolvedores.

@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-17T07:55:17-03:00
+
+====== Registro de alterações ======
+Criado terça-feira 17 julho 2018
+
+   Com base nos [[Documento de game design teste:Processos intrínsecos ao ciclo de produção:Diário de Playtest|playtests]], todas as alterações a serem feitas no projeto devem ser registradas aqui e comunicadas a toda a equipe.
+
+Exemplo:
+   27/06/2018
+   Com base no playtest feito pelo Youil, os controles serão mudados de WASD para as setas do teclado.

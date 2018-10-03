@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-11T11:16:03-03:00
+
+====== Formatação para pastas e recursos ======
+Criado quarta-feira 11 julho 2018
+
+   Este espaço é destinado para registrar, seguir e acompanhar um modelo padrão para organizar pastas e arquivos. Aqui devem ser descritas o modo de criação de pastas padrão, e também o padrão de nomenclatura utilizado para todos os demais arquivos e assets do jogo.
+
+Exemplo:
+   "Para o jogo X, as pastas devem ser organizadas de acordo com o level de onde serão utilizados cada tipo de recurso, e cada level deverá possuir suas subpastas de scripts, assets, materiais, etc... A nomenclatura das pastas deverá ser criada a partir de 'lvl_' + número do level + 'tipo de arquivo'. Os arquivos de música devem estar todos no formato WAV e com nomenclatura 'level_número do level_tipo de asset_nome do asset' "

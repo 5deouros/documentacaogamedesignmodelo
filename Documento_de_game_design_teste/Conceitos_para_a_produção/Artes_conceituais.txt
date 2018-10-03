@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T08:16:55-03:00
+
+====== Artes conceituais ======
+Criado terça-feira 10 julho 2018
+
+   Aqui, é o espaço destinado a colocar as artes conceituais que servirão de base para criação da arte final do jogo.
+
+Exemplo:
+   Algumas artes conceituais do jogo Kinect Adventures[[Documento de game design teste:Conceitos para a produção:Banco de referências|¹⁹]], que evoluiu do conceito de um jogo inicialmente chamado Avateers.
+{{.\avateers_concept.jpg}}
+{{.\kinect_adv_concepts_001.jpg}}
+{{.\kinect_adv_concepts_002.jpg}}
+{{.\kinect_adv_concepts_003.jpg}}
+{{.\kinect_adv_concepts_005.jpg}}
+{{.\kinect_adv_concepts_006.jpg}}
+{{.\kinect_adv_concepts_007.jpg}}
+{{.\kinect_adv_concepts_008.jpg}}
+{{.\kinect_adv_concepts_009.jpg}}
+{{.\kinect_adv_concepts_010.jpg}}
+{{.\kinect_adv_concepts_011.jpg}}
+{{.\kinect_adv_concepts_012.jpg}}
+{{.\kinect_adv_concepts_013.jpg}}
+{{.\kinect_adv_concepts_014.jpg}}
+{{.\kinect_adv_concepts_015.jpg}}
+{{.\kinect_adv_concepts_018.jpg}}
+{{.\kinect_adv_concepts_019.jpg}}
+

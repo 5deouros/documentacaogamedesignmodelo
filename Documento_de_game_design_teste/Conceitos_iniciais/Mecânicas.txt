@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-06T10:47:05-03:00
+
+====== Mecânicas ======
+Criado sexta-feira 06 julho 2018
+
+   As mecânicas do jogo devem ser descritas com o maior nível de detalhe possível, a fim de não causar dúvida à equipe de programação.
+
+Exemplo:
+{{.\18helm7hsv7o5jpg.jpg}}
+   No jogo Doodle jump[[Documento de game design teste:Conceitos para a produção:Banco de referências|¹⁴]], a personagem do jogador pula automaticamente assim que toca uma plataforma. Ela se movimenta para a direita e para a esquerda à medida que o jogador inclina o celular para um lado ou para o outro, e plataformas e monstros surgem proceduralmente pelo cenário à medida que a personagem do jogador se eleva. Ao pular sobre uma mola em uma plataforma, o pulo tem a força aumentada. Ao colidir com uma touquinha, a personagem do jogador voa por um tempo, assim como o jetpack, que possui uma duração maior. Ao colidir com o escudo, a personagem fica invulnerável contra monstros por um tempo. A personagem do jogador pode atirar caso toque na tela. As plataformas verdes são estáticas, as azuis se movem horizontalmente entre dois pontos, as marrons não sustentam o jogador e se quebram caso ele tente pular nelas, as cinzas se movem verticalmente entre dois pontos, as amarelas se tornam vermelas em um curto período de tempo e as vermelhas, no mesmo tempo dessa transição, se desintegram.

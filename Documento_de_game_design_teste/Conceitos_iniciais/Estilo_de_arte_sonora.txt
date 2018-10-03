@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-06T10:47:40-03:00
+
+====== Estilo de arte sonora ======
+Criado sexta-feira 06 julho 2018
+
+A arte sonora do jogo possui grande parte na influência do gamefeel transmitido pelo jogo, e portanto deve levar em consideração as [[Documento de game design teste:Conceitos iniciais:Mensagens a transmitir|mensagens]] a ser transmitidas pelo jogo. Aqui, se deve descrever o possível sobre o modo como será criada e aplicada a trilha sonora, os sons de feedback, voice acting e todos os demais efeitos sonoros.
+
+Exemplo:
+{{.\submerged-RELOADED-PC-2015.jpg}}
+   No jogo Submerged[[Conceitos para a produção:Banco de referências|⁹]], a trilha sonora é composta por diversas músicas interpretadas principalmente em piano, que são aplicadas em diferentes partes da gameplay, de acordo com as partes do jogo em que o jogador se encontra. Além disso, muitas das músicas possuem melodias que harmonizam entre si e criam uma identidade musical própria do jogo. Algumas músicas, com ritmos menos fortes, mas ainda assim com sonoridade intensa, são utilizadas em cutscenes e durante navegações por entre as construções onde se encontram os puzzles, enquanto outras, mais agitadas, causam maior efeito de empolgação ao jogador e são ativadas apenas quando próximas ou muito próximas de encontrar os objetivos. Além disso, todas as músicas são extremamente relaxantes e harmoniosas, o que combina com o nível de detalhes e a qualidade gráfica do cenário. Além disso, a personagem do jogador possui um voice acting em um idioma desconhecido, genérico e que combina com a não idiomatização dos elementos de jogo. Ela também fornece um feedback sonoro sutil e suficiente durante escaladas. O mar e cenários fornecem sons ambientes de natureza e água, o motor do barco reage sonoramente aos controles, e a luneta produz um som que indica quando há algo próximo a ser observado.

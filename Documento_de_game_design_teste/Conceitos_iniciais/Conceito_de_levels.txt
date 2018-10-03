@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-06T10:48:24-03:00
+
+====== Conceito de levels ======
+Criado sexta-feira 06 julho 2018
+
+   Aqui, é importante descrever quais serão os principais elementos de level design que deverão constar nos levels do jogo, tais como métodos de guiar o jogador para os caminhos principais, obstáculos e demais recursos.
+
+Exemplo:
+{{.\250px-Slateport_City_RS.png}}
+   Em Pokémon - Emerald version[[Conceitos para a produção:Banco de referências|³]], as cidades possuem estradas, que guiam o jogador pelo caminho principal, mas não o impedem de explorar áreas acessíveis por grama, diversos tipos de obstáculos, como pedras, cercas, degraus de elevação, água, construções e até mesmo NPCs. Distribuidos pelo mapa, estão casas, pokéballs que contêm itens e NPCs que podem batalhar, ou dialogar, ou presentear o jogador.

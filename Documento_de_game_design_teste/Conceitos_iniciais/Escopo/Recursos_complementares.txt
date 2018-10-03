@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-06T12:23:40-03:00
+
+====== Recursos complementares ======
+Criado sexta-feira 06 julho 2018
+
+   Os recusos tachados como complementares devem ser aqueles que possuem uma prioridade não tão primária, quanto o core do jogo, mas que aplicam a fluidez e o gamefeel necessários para a verossimilhança, jogabilidade e organicidade do jogo. Aqui têm espaço recursos como animação, partículas, recursos complementares ao jogo como power ups, mecânicas que não são necessárias para atingir as condições de vitória do jogo, etc...
+
+Exemplo:
+{{.\download.png}}
+   Para o jogo Pac-Man[[Conceitos para a produção:Banco de referências|⁷]], são recursos complementares as animações da boquinha da personagem do jogador, assim como as dos fantasminhas, a coesão estética entre inimigos, protagonista e cenário, feedbacks visuais e sonoros, etc...

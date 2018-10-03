@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-06T10:46:59-03:00
+
+====== Gameplay ======
+Criado sexta-feira 06 julho 2018
+
+   A descrição da gameplay é um ponto chave na documentação de game design, visto que ela influenciará a maior parte das etapas de pré-produção e produção. Aqui, deve ser descrito todo o fluxo principal do jogo e a progressão do jogador pelo level, as reações do jogo às ações do jogador, feedbacks, desafios, etc...
+
+Exemplo:
+{{.\179017.jpg}}
+   No jogo Temple Run[[Conceitos para a produção:Banco de referências|¹²]], o jogador inicia um percurso de parkour já correndo. Periodicamente, aperecem à frente possibilidades de escolhas de caminhos, nos quais ele pode rotacionar para os lados ou seguir em frente, obstáculos dos quais ele deve desviar antes que bata, seja pulando, deslizando ou mudando de posição na pista, e coletáveis, para os quais é necessário mudar de lado da pista para coletar. Ao coletar moedas, elas percorrem um pedaço da tela que não atrapalha o jogo até uma barra, que vai se enchendo. Quando essa barra se enche, o jogador ganha um bônus de pontuação e a barra de pontos reage com partículas. Ao colidir com obstáculos pequenos, o jogador perde velocidade, e caso isso aconteça novamente em um curto período, ele morre. Caso colida com obstáculos grandes, não consiga completar curvas ou caia na água, ele também morre. Há uma placa que informa ao jogador as marcas de distância já percorridas. 

@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-17T08:01:29-03:00
+
+====== Kits de fechamento ======
+Criado terça-feira 17 julho 2018
+
+   São registros de informações sobre o jogo após a conclusão da etapa de produção e que envolvem a publicação do jogo e a reorganização da equipe para o início de novos projetos.
+		- [[Documento de game design teste:Kits de fechamento:Métodos de divulgação|Registro dos métodos de divulgação]];
+		- [[Documento de game design teste:Kits de fechamento:Licenciação e liberação do projeto|Registro de licenças e liberação de assets e código]];
+		- [[Documento de game design teste:Kits de fechamento:Work in Progress (WIP)|Redação de WIPs (Work in progress)]];
+		- [[Documento de game design teste:Kits de fechamento:Post-mortems|Registro de post-mortems]];

@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-17T08:07:40-03:00
+
+====== Licenciação e liberação do projeto ======
+Criado terça-feira 17 julho 2018
+
+   Aqui, devem ser registrados os tipos de licenças utilizados em cada asset e no jogo inteiro, bem como os métodos de publicação e liberação do código caso isso seja feito.
+
+Exemplo:
+   "O jogo será publicado sob uma licença do tipo X, exceto os assets Y, Z e W, que terão licença do tipo K. O código será completamente livre e estará disponível em A"

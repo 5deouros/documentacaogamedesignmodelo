@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-17T08:17:17-03:00
+
+====== WIP da ilustração do cenário ======
+Criado terça-feira 17 julho 2018
+
+   Para a ilustração do cenário do jogo X, eu me baseei na imagem abaixo quanto à riqueza de detalhes e na simplicidade do traço.
+{{.\Sem título.png}}
+   Comecei o traço utilizando formas arredondadas, visto que o jogo deve possuir ambientes mais infantis e inocentes, e à medida que foram tomando forma, fui alterando alguns aspectos para não deixar o cenário monótono. Aqui está o primeiro esboço de como ficaria o cenário:
+{{.\AESDGVREH.png}}
+   Fui colorindo de acordo com a paleta determinada para o cenário do jogo e o resultado foi esse:
+{{.\AFWSWAF.png}}
+   Depois, foram pedidas alterações no sombreamento para a imagem final. Tive dificuldade com a parte da grama, mas pedi ajuda ao Youil e assim conseguimos entregar um resultado bonito:
+{{.\SAWFASF.png}}
+
+   Aline Schult Ferreira, 17/07/2018.

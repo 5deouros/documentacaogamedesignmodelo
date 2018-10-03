@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-06T11:03:50-03:00
+
+====== Plataforma ======
+Criado sexta-feira 06 julho 2018
+
+   A plataforma deve constar nessa seção, e para a decisão dessa, devem ser levados em conta a acessibilidade, a adequação ao público-alvo, o hardware necessário, os controles, a localização e as configurações de exportação. Caso exista mais de uma plataforma alvo, é importante descrever, se existir uma principal, qual é a principal, e qual(is) controle(s) serão utilizados para cada mecênica em cada uma delas, e caso exista mais alguma mudança de gameplay entre uma plataforma e outra, tal como level design ou até mesmo mudanças na qualidade gráfica a fins de otimização.
+
+Exemplo:
+{{.\fruit_ninja_00_thumb.jpg}}
+   A plataforma principal para o jogo Fruit Ninja[[Documento de game design teste:Conceitos para a produção:Banco de referências|¹⁸]] é mobile, visto que foi a primeira para a qual o jogo foi lançado, e seu input foi feito a partir da touchscreen. Porém, ele também foi lançado, posteriormente, nas plataformas PC, Xbox e PSVita. No Xbox, por exemplo, o modo de input touchscreen foi substituído pela tecnologia Kinect.

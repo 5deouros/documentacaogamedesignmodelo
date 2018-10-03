@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-06T10:49:22-03:00
+
+====== Conceitos iniciais ======
+Criado sexta-feira 06 julho 2018
+
+   Nesta seção, estão alocadas as principais decisões tomadas para o refinamento de uma ideia de jogo e os conceitos que dão forma a ele.
+
+	Conceitos iniciais:
+		- [[Documento de game design teste:Conceitos iniciais:Conceito do jogo|Conceito do jogo]];
+		- [[Documento de game design teste:Conceitos iniciais:Escopo|Definição do escopo]];
+		- [[Documento de game design teste:Conceitos iniciais:Plataforma|Definição de plataforma]];
+		- [[Documento de game design teste:Conceitos iniciais:Público-alvo|Definição de público-alvo]];
+		- [[Documento de game design teste:Conceitos iniciais:Mensagens a transmitir|Definição da(s) mensagem(s) a ser(em) transmitida(s)]];
+		- [[Documento de game design teste:Conceitos iniciais:Estética|Definição da estética do jogo]];
+		- [[Documento de game design teste:Conceitos iniciais:Gameplay|Descrição de gameplay]];
+		- [[Documento de game design teste:Conceitos iniciais:Mecânicas|Descrição de mecânicas]];
+		- [[Documento de game design teste:Conceitos iniciais:Estilo de arte visual|Descrição do estilo de arte visual]];
+		- [[Documento de game design teste:Conceitos iniciais:Estilo de arte sonora|Descrição do estilo de arte sonora]];
+		- [[Documento de game design teste:Conceitos iniciais:Estilo de narrativa|Descrição do estilo de narrativa]];
+		- [[Documento de game design teste:Conceitos iniciais:Conceito de levels|Descrição do level e suas necessidades]];
+		- [[Documento de game design teste:Conceitos iniciais:Conceitos de interface|Descrição da interface]];
+		- [[Documento de game design teste:Conceitos iniciais:Localização|Descrição das necessidades de localização]];

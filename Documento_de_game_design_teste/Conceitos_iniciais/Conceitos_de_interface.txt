@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-06T10:48:41-03:00
+
+====== Conceitos de interface ======
+Criado sexta-feira 06 julho 2018
+
+ Aqui, se devem descrever conceitos para facilitar a compreensão da interface pelo jogador que levem em consideração todos os elementos visuais do jogo, como as personagens, o cenário, os inimigos, power ups, peças de puzzles, HUDs, menus, entre outros.
+
+Exemplo:
+{{.\plants_vs_zombies-1242135776.jpg}}
+   Em Plants vs Zombies[[Conceitos para a produção:Banco de referências|⁵]], as plantas possuem rostos e expressões faciais e formas que condizem com a natureza de seus efeitos, indicando sua agressividade ou não. A partir de suas formas e cores, também é possível identificar a qual parte do jogo (diurna/noturna/piscina/névoa/telhado) elas pertencem e/ou são mais adequadas. Os zumbis são desenhados a partir de um design genérico e suas vestimentas e acessórios auxiliam a identificar que tipo de resistência oferecem aos ataques de plantas ou que poderes especiais possuem. Os cenários são modulados e auxiliam o jogador a identificar as partes em que é possível plantar, e cada um possui formatos e paletas que os diferenciam dos outros. A HUD mostra apenas a quantidade de sol disponível, a pá e as plantas que serão utilizadas no level. O menu demonstra visualmente itens com as temáticas de plantas e de zumbis para selecionar modos e opções de jogo. As paletas principais do jogo tendem principalmente a tons de verde, marrom, azul e roxo.

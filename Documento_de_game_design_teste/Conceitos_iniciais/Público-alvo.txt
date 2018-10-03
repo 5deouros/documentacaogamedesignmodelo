@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-06T10:45:42-03:00
+
+====== Público-alvo ======
+Criado sexta-feira 06 julho 2018
+
+   O público-alvo de um jogo deve ser escolhido de acordo com os tipos de [[Documento de game design teste:Conceitos iniciais:Mensagens a transmitir|mensagens transmitidas]] por este, bem como suas adequações etárias, com a [[Documento de game design teste:Conceitos iniciais:Localização|localização]], a acessibilidade e [[Documento de game design teste:Conceitos iniciais:Plataforma|plataforma(s)]] disponível(is) e a adequação das tecnologias essenciais utilizadas. É recomendável que seja escolhido com base em pesquisa ou que o jogo seja inteiro adequado a seu público-alvo caso ele já esteja pré-definido pelo demandante.
+
+Exemplo:
+   Os públicos-alvo dos jogos Candy Crush Saga[[Documento de game design teste:Conceitos para a produção:Banco de referências|¹⁶]] e World of Warcraft[[Documento de game design teste:Conceitos para a produção:Banco de referências|¹⁷]] são significativamente distintos. Enquanto aquele é projetado para pessoas numa faixa etária de 40 anos ou mais que utilizam bastante as redes sociais, este foca um público jovem que não se relaciona muito socialmente e é familiarizado com os sistemas de RPG.
+{{.\candyCrushSodaSagaImg3.jpg}}
+
+{{.\wow-5k-stormwind-100716784-orig.jpg}}

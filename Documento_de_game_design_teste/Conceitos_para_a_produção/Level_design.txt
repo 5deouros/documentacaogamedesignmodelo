@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-09T08:33:03-03:00
+
+====== Level design ======
+Criado segunda-feira 09 julho 2018
+
+   Aqui, devem constar o modo e um esboço de como serão distribuídos os recursos do jogo pelo level.
+
+Exemplo:
+{{.\brilliance_in_level_design_forest_temple__banner-auto-cropping.jpg}}
+   Diagrama sobre o level design do jogo Zelda - Ocarina of time[[Documento de game design teste:Conceitos para a produção:Banco de referências|²]]

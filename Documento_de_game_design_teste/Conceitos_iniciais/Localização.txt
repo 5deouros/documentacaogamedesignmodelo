@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-06T10:49:05-03:00
+
+====== Localização ======
+Criado sexta-feira 06 julho 2018
+
+   Para descrever as necessidades de localização do jogo, é importante descrever as peculiaridades da região onde se concentra(m) o(s) público(s)-alvo, e as manobras necessárias no jogo para atingí-lo(s).
+
+Exemplo:
+{{.\League_of_Legends_no_Brasil-600x300-560x280.jpg}}
+   No jogo de dimensões internacionais League of Legends[[Conceitos para a produção:Banco de referências|¹³]], a localização é feita por equipes em cada região de servidores pelo mundo, e são feitas, constantemente, alterações não apenas em idiomas, dublagens e nomes de intens, mas também em imganes de splash arts e skins e até mesmo modelos, de acordo com aspectos culturais de cada região. É bonito notar que em português, são utilizados até mesmo memes nas falas de alguns dos personagens, e isso agrada muito o público.

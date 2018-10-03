@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-06T10:47:51-03:00
+
+====== Estilo de narrativa ======
+Criado sexta-feira 06 julho 2018
+
+   Nessa seção, é importante descrever o modo como a narrativa será apresentada ao jogador, as estruturas e elementos narrativos que serão utilizados para isso.
+
+Exemplo:
+{{.\maxresdefault.jpg}}
+   No jogo Dust[[Conceitos para a produção:Banco de referências|¹¹]] - an elysian tale, a história é apresentada por meio de diálogos do personagem principal, na maior parte das vezes com sua espada e com seu guardião, e também com os demais NPCs, e em alguns momentos, por meio de cutscenes. Durante os diálogos, é possível que o jogador esolha sua fala, para melhor direcionar as informações recebidas. A narrativa se desenvolve aos poucos a partir da premissa de que Dust - o personagem do jogador, acorda sem lembranças, e sua espada se comunica com ele, asssim como um guardião que se apresenta. Então, ao encontrar vilas e dialogar com pessoas, sua história e missão são apresentadas ao jogador a partir de revelações e descobertas.

@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-06T11:47:55-03:00
+
+====== Recursos necessários ======
+Criado sexta-feira 06 julho 2018
+
+   Os recursos tachados como necessários devem ser as necessidades mínimas para que o core do jogo seja funcional. Aqui entram recursos como sprites placeholders, mecânicas básicas e funcionais e recursos indispensáveis para a orientação do jogador.
+
+Exemplo:
+{{.\download.png}}
+   Para o jogo Pac-Man[[Conceitos para a produção:Banco de referências|⁷]], são recursos necessários a existência de um espaço de jogo com caminhos, de uma sprite programada para andar nos eixos vertical e horizontal, de um contador de vidas da  de sprites programadas para criar rondas em partes do espaço de jogo e para retirar uma das vidas da personagem do jogador caso toquem nele, de sprites programadas para ativar uma possibilidade da personagem do jogador não morrer ao tocar nos inimigos, etc...

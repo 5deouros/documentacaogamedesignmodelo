@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-06T12:08:29-03:00
+
+====== Avaliações de risco ======
+Criado sexta-feira 06 julho 2018
+
+   As avaliações de risco devem se feitas com frequência e registradas nesta seção. Elas servem para acompanhar o progresso do projeto de acordo com os prazos e verificar se será possível entregar o planejado dentro deles. Caso não, quaisquer mudanças realizadas devem ser registradas sem que se apague do GDD as ideias anteriores, e a equipe inteira deve ser notificada.
+
+Exemplos: "Para o projeto X, foi prometido as mecânicas Y e Z em uma semana. A mecânica Y demorou 5 dias para ser feita, portanto a Z não terá tempo de ser criada"; "Para o jogo A, foram prometidas a utilização dos recursos B e C em um mês. Em 15 dias tudo foi terminado, portanto, foi decidido incluir também o recurso D"

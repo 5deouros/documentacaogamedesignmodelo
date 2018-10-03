@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-11T10:17:17-03:00
+
+====== Banco de referências ======
+Criado quarta-feira 11 julho 2018
+
+   Espaço criado para citar corretamente e abrir links que possam traçar um paralelo entre todas as referências utilizadas
+
+¹ Retirado do artigo "Step 2 - Paper Prototyping" no endereço https://spritelygames.com/blog/2015/how-to-make-a-video-game/ , acesso em 11/07/2018, às 10h30min.
+² Retirado do artigo "Brilliance in level design: Ocarina of time's forest temple" no endereço https://www.zeldadungeon.net/brilliance-in-level-design-ocarina-of-times-forest-temple/ , acesso em 11/07/2018, às 11h10min.
+³ Pokémon Emerald Version. Feito por Game Freak e Creatures Inc, 2002. Website oficial: https://www.pokemon.com/us/pokemon-video-games/pokemon-emerald-version/ , acesso em 11/07/2018, às 12h30min.
+⁴ Snake é um jogo famoso por várias versões, sendo a primeira delas o jogo Blockade, de acordo com o artigo https://pt.wikipedia.org/wiki/Serpente_(jogo_eletrônico) , acesso em 11/07/2018, às 12h40min.
+⁵ Plants vs. Zombies. Feito por PopCap Games e publicado pela Electronic Arts, 2009. Website oficial: https://www.ea.com/studios/popcap/plants-vs-zombies , acesso em 11/07/2018, às 12h40min.
+⁶ There is no game. Feito por KaMiZoTo, 2015. Link da play store: https://play.google.com/store/apps/details?id=com.kamizoto.thereisnogame&hl=pt_BR , acesso em 16/07/2018, às 8h00min.
+⁷ Pac-Man. Namco, 1980. Info em https://pt.wikipedia.org/wiki/Pac-Man , acesso em 16/07/2018, às 8h10min.
+⁸ Viva Piñata. Feito por Rare e Climax Group, 2006. Website oficial: http://www.vivapinata.com/
+⁹ Submerged. Feito por Uppercut Games, 2015. Website oficial: https://www.uppercut-games.com/submerged/ , acesso em 16/07/2018, às 8h10min.
+¹⁰ Banjo-Kazooie. Feito por Rare, 1998. Website oficial: http://www.banjo-kazooie.com/
+¹¹ Dust: An elysian tail. Feito por Humble Hearts, 2012. Website oficial: https://www.noogy.com/ , acesso em 16/07/2018, às 8h20min.
+¹² Temple Run. Feito por Imangi Studios, 2011. Website oficial: http://imangistudios.com/ , acesso em 16/07/2018, às 8h30min.
+¹³ League of Legends. Feito por Riot Games, 2009. Website oficial (brasileiro): https://br.leagueoflegends.com/ , acesso em 16/07/2018, às 8h30min.
+¹⁴ Doodle Jump. Feito por Lima Sky, 2009. Website oficial: http://doodlejump.org/ , acesso em 16/07/2018, às 8h40min.
+¹⁵ Hellblade: Senua's sacrifice. Feito por Ninja Theory, 2017. Website oficial: https://www.hellblade.com/ , acesso em 16/07/2018, às 8h40min.
+¹⁶ Candy Crush Saga. Feito por King, 2012. Website oficial: https://candycrushsaga.com/en/ , acesso em 16/07/2018, às 8h40min.
+¹⁷ World of Warcraft. Feito por Blizzard, 2004. Website oficial: https://worldofwarcraft.com/pt-br/ , acesso em 16/07/2018, às 8h50min.
+¹⁸ Fruit Ninja. Feito por Halfbrick Studios, 2010. Website oficial: https://fruitninja.com/ , acesso em 16/07/2018, às 8h50min.
+¹⁹ Kinect Adventures. Feito por Microsoft Studios e Good Science Studio, 2010. Website oficial: https://marketplace.xbox.com/en-US/Product/Kinect-Adventures/66acd000-77fe-1000-9115-d8024d5308ed , acesso em 16/07/2018, às 8h50min.
+²⁰ Mario. Nintendo, 1981. Info em https://pt.wikipedia.org/wiki/Mario_(personagem) , acesso em 16/07/2018, às 9h00min.
+²¹ The last of us. Feito por Naughty Dog, 2013. Website oficial: http://www.thelastofus.playstation.com/ , acesso em 16/07/2018, às 9h00min.
+²² Stranger Things, the game. Feito por BonusXP, Inc, 2017. Link da Play Store:  https://play.google.com/store/apps/details?id=com.bonusxp.legend&hl=pt_BR , acesso em 16/07/2018, às 9h00min.

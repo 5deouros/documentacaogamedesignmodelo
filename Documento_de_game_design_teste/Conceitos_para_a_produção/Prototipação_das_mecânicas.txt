@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-11T10:10:52-03:00
+
+====== Prototipação das mecânicas ======
+Criado quarta-feira 11 julho 2018
+
+   É importante que, mesmo que em papel, programando, ou utilizando softwares visuais e acessíveis, o designer elabore algum protótipo que possa demonstrar as reações esperadas do jogo para passar essa informação claramente à equipe de programação.
+
+Exemplo:
+{{.\paper-prototype.jpg}}
+   Protótipo de papel criado para o jogo Desert Swarm[[Documento de game design teste:Conceitos para a produção:Banco de referências|¹]]
